@@ -15,8 +15,8 @@ This is a very covenient code for Bank-Marketing-Data-Analysis for datset presen
 Utility for viewers:
 This repository can help one understand how to do data analysis using a standard dataset.
 
-For the campaigning need organizations rely mainly on either mass campaign, which targets a larger population or direct campaign, which targets specific clients. Formal studies have shown mass campaign to be as less effective as 1% positive response. In contrast, the direct campaign focuses on specific potential clients and is often data driven, and more effective.
-In the age of Big-Data, it is nearly impossible to scale without data-driven techniques and solutions. The bank in the question is considering how to optimize this campaign in future.  We can make data-driven decision to suggest marketing manager about effective client selection, which would increase the conversion rate. Direct marketing is effective yet it has some drawbacks, such as causing negative attitude towards banks due to the intrusion of privacy. It would be interesting to investigate how we can decrease the outbound call rate and use inbound calls for cross-selling intelligently to increase the duration of the call. We will discuss later why the duration of a call is an important parameter here.
+For the campaigning need organizations rely mainly on either mass campaign, which targets a larger population or direct campaign, which targets specific clients. Formal studies have shown mass campaign to be as less effective as 1% positive response. In contrast, the direct campaign focuses on specific potential clients and is often data driven, and more effective.<p>
+In the age of Big-Data, it is nearly impossible to scale without data-driven techniques and solutions. The bank in the question is considering how to optimize this campaign in future.  We can make data-driven decision to suggest marketing manager about effective client selection, which would increase the conversion rate. Direct marketing is effective yet it has some drawbacks, such as causing negative attitude towards banks due to the intrusion of privacy. It would be interesting to investigate how we can decrease the outbound call rate and use inbound calls for cross-selling intelligently to increase the duration of the call. We will discuss later why the duration of a call is an important parameter here.<p>
 We will be building few classifiers to predict whether a particular client will subscribe to term deposit or not. If classifier has very high accuracy it can help the manager to filter clients and use available resources more efficiently to achieve the campaign goal. Besides, we would also try to find influential factors for decision so that we can establish efficient and precise campaigning strategy. Proper strategy would reduce cost and improve long term relations with the clients.  
 
 ## What you require?
@@ -24,7 +24,7 @@ Nothing everything is here in this repository for this analysis
 
 ##File consumption order
 
-Start by reading the Report:Bank_Marketing_Campaign_Analysis.pdf<br>
+Start by reading the Report : Bank_Marketing_Campaign_Analysis.pdf<br>
 Dataset : Bank_Marketing.txt<br>
 Code : Bank_Marketing.R<br>
 Further Question and Analysis : Questions and analysis.pdf<br>

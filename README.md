@@ -13,7 +13,7 @@ This is a very covenient code for Bank-Marketing-Data-Analysis for datset presen
 
 ## What it is?
 Utility for viewers:
-This repository can help on understand how to do data analysis using a standard dataset.
+This repository can help one understand how to do data analysis using a standard dataset.
 
 For the campaigning need organizations rely mainly on either mass campaign, which targets a larger population or direct campaign, which targets specific clients. Formal studies have shown mass campaign to be as less effective as 1% positive response. In contrast, the direct campaign focuses on specific potential clients and is often data driven, and more effective.
 In the age of Big-Data, it is nearly impossible to scale without data-driven techniques and solutions. The bank in the question is considering how to optimize this campaign in future.  We can make data-driven decision to suggest marketing manager about effective client selection, which would increase the conversion rate. Direct marketing is effective yet it has some drawbacks, such as causing negative attitude towards banks due to the intrusion of privacy. It would be interesting to investigate how we can decrease the outbound call rate and use inbound calls for cross-selling intelligently to increase the duration of the call. We will discuss later why the duration of a call is an important parameter here.

@@ -25,10 +25,10 @@ Nothing everything is here in this repository for this analysis
 ##File consumption order
 
 Start by reading the Report:Bank_Marketing_Campaign_Analysis.pdf<br>
-Dataset:Bank_Marketing.xlsx<br>
-Code:Bank_Marketing.R<br>
-Further Question and Analysis: Questions and analysis.pdf<br>
-Relevant Code: Decide_for_contacting.r<br>
+Dataset : Bank_Marketing.txt<br>
+Code : Bank_Marketing.R<br>
+Further Question and Analysis : Questions and analysis.pdf<br>
+Relevant Code : Decide_for_contacting.r<br>
 Byproduct for all individual plots: BYPRODUCTRelationFinder.r<br>
 
 ## Language Used
